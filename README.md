@@ -14,8 +14,7 @@ ___
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) PostgreSQL <br>
 
 Integrations
- Mercado Libre Developers API
- Shopee Open Platform
+ Mercado Libre Developers API and Shopee Open Platform
 
 ___
 
@@ -28,3 +27,6 @@ ___
 
  ![Status](https://img.shields.io/badge/Status-Initial-blue)
  Starting project 
+
+ ![Tasks](https://img.shields.io/badge/Tasks-0%2F5-lightgrey) Tasks
+ No peding tasks
