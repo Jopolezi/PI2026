@@ -26,7 +26,7 @@ ___
  ![Academic](https://img.shields.io/badge/Project-Academic-blue) Project developed for academic purposes.  
 
  ![Status](https://img.shields.io/badge/Status-Initial-blue)
- Starting project 
+ 
 
- ![Tasks](https://img.shields.io/badge/Tasks-None-lightgrey) Tasks
+ ![Tasks](https://img.shields.io/badge/Tasks-None-lightgrey) 
  No peding tasks
