@@ -3,7 +3,7 @@ Repository for the integrated project of Fatec Taquaritinga. Developed by João 
 
 # Stack
 **Frontend** <br>
- ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript) Javascript and Typescript <br>
+ ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript) JavaScript and TypeScript <br>
  ![React](https://img.shields.io/badge/React-20232A?logo=react) React and supporting libraries <br>
 
 ___
@@ -13,8 +13,7 @@ ___
  ![Express](https://img.shields.io/badge/Express.js-API-black?logo=express) Express.js <br> 
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) PostgreSQL <br>
 
-Integrations
- Mercado Libre Developers API and Shopee Open Platform
+Integrates Mercado Libre Developers API and Shopee Open Platform
 
 ___
 
@@ -23,10 +22,11 @@ ___
 
 ___
 
- ![Academic](https://img.shields.io/badge/Project-Academic-blue) Project developed for academic purposes.  
+ ![Academic](https://img.shields.io/badge/Project-Academic-blue) <br>
+ Project developed for academic purposes.  
 
- ![Status](https://img.shields.io/badge/Status-Initial-blue)
- 
+ ![Status](https://img.shields.io/badge/Status-Initial-blue) <br>
+ Starting
 
- ![Tasks](https://img.shields.io/badge/Tasks-None-lightgrey) 
- No peding tasks
+ ![Tasks](https://img.shields.io/badge/Tasks-None-lightgrey) <br>
+ No pending tasks
