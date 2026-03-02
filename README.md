@@ -13,17 +13,19 @@ ___
  ![Express](https://img.shields.io/badge/Express.js-API-black?logo=express) Express.js <br> 
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) PostgreSQL <br>
 
-
 Integrations
  Mercado Libre Developers API
  Shopee Open Platform
 
+___
 
 **Versioning** <br>
  ![Git](https://img.shields.io/badge/Git-Versioning-F05032?logo=git&logoColor=white) Git (Github)
 
+___
 
  ![Academic](https://img.shields.io/badge/Project-Academic-blue) <br>
  Project developed for academic purposes.  
 
  ![Status](https://img.shields.io/badge/Status-Initial-blue)
+ Starting project 
