@@ -24,4 +24,6 @@ Integrations
 
 
  ![Academic](https://img.shields.io/badge/Project-Academic-blue) <br>
- Project developed for academic purposes.
+ Project developed for academic purposes.  
+
+ ![Status](https://img.shields.io/badge/Status-Initial-blue)
