@@ -24,8 +24,7 @@ ___
 
 ___
 
- ![Academic](https://img.shields.io/badge/Project-Academic-blue) 
- Project developed for academic purposes.  
+ ![Academic](https://img.shields.io/badge/Project-Academic-blue) Project developed for academic purposes.  
 
  ![Status](https://img.shields.io/badge/Status-Initial-blue)
  Starting project 
