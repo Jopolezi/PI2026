@@ -28,5 +28,5 @@ ___
  ![Status](https://img.shields.io/badge/Status-Initial-blue)
  Starting project 
 
- ![Tasks](https://img.shields.io/badge/Tasks-0%2F5-lightgrey) Tasks
+ ![Tasks](https://img.shields.io/badge/Tasks-None-lightgrey) Tasks
  No peding tasks
