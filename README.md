@@ -1,5 +1,5 @@
 # Sellhub
-Repository for the integrated project of Fatec Taquaritinga. Developed by João Francisco Polezi, Leonardo Amato Sander Silva, and Valentino Amato Sander Silva, this project aims to provide a solution for e-commerce sales management.
+Repository for the integrated project of Fatec Taquaritinga. Developed by João Francisco Polezi, Leonardo Amato Sander Silva, and Valentino Amato Sander Silva, this project aims to provide a solution for e-commerce sales management
 
 # Stack
 **Frontend** <br>
@@ -23,10 +23,26 @@ ___
 ___
 
  ![Academic](https://img.shields.io/badge/Project-Academic-blue) <br>
- Project developed for academic purposes.  
+ Project developed for academic purposes
 
  ![Status](https://img.shields.io/badge/Status-Initial-blue) <br>
  Starting
 
  ![Tasks](https://img.shields.io/badge/Tasks-None-lightgrey) <br>
  No pending tasks
+
+ ___
+
+ # Getting started
+ ### Prerequisites
+- Node.js (v18 or higher)
+- PostgreSQL
+- Git
+
+### Installation
+
+```bash
+git clone https://github.com/YOUR_USER/PI2026.git
+cd PI2026
+npm install
+```
